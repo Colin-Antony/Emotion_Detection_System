@@ -8,8 +8,6 @@ As one can see it is an unbalanced dataset.
 Run the image_loader.py file to test the model. Training dataset will be available online.  
 Model accuracy is low, around 65 percent. Lot of room to improve.  
 Notes to improve:  
-1) Use stratifying while splitting the dataset. Chances of skewing are high due to the number of images in a class being scarce
-2) Try a different model after doing the above step
-3) Remove the disgust class fully and try.
-4) Goal. Aim for 75 percent
-
+1) Try a different model
+2) Remove the disgust class fully and try.  
+3) Goal. Aim for 75 percent
